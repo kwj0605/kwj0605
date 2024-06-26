@@ -33,7 +33,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/kwj_daily-E4405F?style=for-the-badge&logo=instagram&logoColor=%23ffffff">
   </a>
   <a href="mailto:rladnwlsok@naver.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/rladnwlsok@naver.com-03C75A?style=for-the-badge&logo=gmail&logoColor=03C75A">
+    <img alt="Static Badge" src="https://img.shields.io/badge/rladnwlsok@naver.com-03C75A?style=for-the-badge&logo=gmail&logoColor=%23ffffff">
   </a>
 </div>
 
