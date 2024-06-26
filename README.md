@@ -17,11 +17,7 @@
 <div align="center">
   
   <img alt="Static Badge" src="https://simpleicons.org/icons/javascript.svglogo=javascript&logoColor=F7DF1E">
-  <img alt="Static Badge" src="https://simpleicons.org/icons/mysql.svg&logo=mysql&logoColor=4479A1">
-</div>
-<div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://simpleicons.org/icons/python.svg&logo=python&logoColor=3776AB">
 </div>
 
 <div align="center">
