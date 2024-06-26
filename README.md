@@ -16,7 +16,7 @@
 </div>
 <div align="center">
   
-  <img alt="Static Badge" src="https://simpleicons.org/icons/javascript.svglogo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=FFFFFF">
 </div>
 
