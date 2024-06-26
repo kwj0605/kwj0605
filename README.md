@@ -30,7 +30,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/kwj_daily/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/kwj_daily%23E4405F?style=for-the-badge&logo=instagram&logoColor=%23ffffff">
+    <img src="https://img.shields.io/badge/kwj_daily%23E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
   <a href="mailto:rladnwlsok@naver.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/rladnwlsok@naver.com-%23FFCD00?style=for-the-badge&logo=gmail&logoColor=03C75A">
