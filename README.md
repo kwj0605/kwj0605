@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Woogie's%20Github">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Woojin's%20Github">
 </div>
-
+<!--
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=Fira+Code&pause=1000&color=AC9BF7&center=true&random=false&width=435&lines=Welcome+to+my+Github!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
 </div>
 <br>
+-->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
