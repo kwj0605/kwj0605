@@ -37,7 +37,8 @@
   </a>
 </div>
 
-github-readme-stats.vercel.app/api?username=kwj0605&show_icons=true
+<img alt="Static Badge" src="https://github-readme-stats.vercel.app/api?username=kwj0605&show_icons=true">
+
 
 <!--
 **kwj0605/kwj0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
