@@ -37,7 +37,12 @@
   </a>
 </div>
 
-<img alt="Static Badge" src="https://github-readme-stats.vercel.app/api?username=kwj0605&show_icons=true">
+<div align="center">
+  <img alt="Static Badge" src="https://github-readme-stats.vercel.app/api?username=kwj0605&show_icons=true">
+  <img alt="Static Badge" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwj0605&langs_count=8">
+</div>
+
+
 
 
 <!--
