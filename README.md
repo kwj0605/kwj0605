@@ -11,7 +11,6 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=%23000000">
   <img src="https://img.shields.io/badge/java-DF0522?style=for-the-badge&logo=java">
 </div>
 <div align="center">
