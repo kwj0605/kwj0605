@@ -35,7 +35,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/rladnwlsok@naver.com-03C75A?style=for-the-badge&logo=gmail&logoColor=%23ffffff">
   </a>
 </div>
-
+<!--
 <div align="center">
   <img alt="Static Badge" src="https://github-readme-stats.vercel.app/api?username=kwj0605&show_icons=true">
   <img alt="Static Badge" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwj0605&langs_count=8">
@@ -44,7 +44,7 @@
 
 
 
-<!--
+
 **kwj0605/kwj0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
